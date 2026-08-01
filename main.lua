@@ -1,5 +1,5 @@
 -- File: main.lua
--- test edit
+
 function _config()
     return {
         name = "Ball Catcher",
